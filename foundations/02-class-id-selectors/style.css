@@ -1,0 +1,19 @@
+.odd, .special{
+    background-color: #ff0000;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#two{
+    background-color: #00ff08;
+    font-size: 24px;
+    font-weight: bold;
+}
